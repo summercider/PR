@@ -27,6 +27,7 @@
 
 ## 💰 머니핀
 - **서비스 유형**: 웹 기반 금융 데이터 뷰어 앱
+  -`git` : https://github.com/summercider/NextProject
 - **기술 스택**:
   - Next.js
   - SSR + CSR 분리 아키텍처 설계
